@@ -2,9 +2,8 @@ import React from 'react';
 
 const ClickComponent = () => {
   const handleClick = (e) => {
-    console.log('Button clicked!>>>>>>>>>>>>>>>>>>>>>>>>');
+    console.log('test m 2 soft reset');
   };
-
   return (
     <div>
       <h1>Simple Click Example</h1>
