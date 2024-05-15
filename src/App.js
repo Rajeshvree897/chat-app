@@ -3,6 +3,8 @@ import React from 'react';
 const ClickComponent = () => {
   const handleClick = (e) => {
     console.log('test m 2 soft reset');
+    console.log('test m 2 soft reset');
+
   };
   return (
     <div>
